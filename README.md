@@ -1,2 +1,2 @@
 # bsadik
-Bibi Sadik OPS435 NAA
+OPS435 NAA
